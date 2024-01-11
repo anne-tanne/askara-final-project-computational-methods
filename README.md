@@ -23,6 +23,8 @@ Final Project «Multilingual Computational Methods for Text-based Media»
 
 
 😴 Time for a well-deserved break! 😴
-![GIF]([https://giphy.com/embed/4kNO1v6ABvMXu](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3EwMGg3ZW00dWxnZ3F3NGtvMDFpcjg2azNnbjRmdXdpanhrZ215aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4kNO1v6ABvMXu/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3EwMGg3ZW00dWxnZ3F3NGtvMDFpcjg2azNnbjRmdXdpanhrZ215aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4kNO1v6ABvMXu/giphy.gif)
+
+![](https://i.giphy.com/4kNO1v6ABvMXu.webp)
+
 
 Thanks for the course!
