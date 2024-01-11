@@ -21,3 +21,8 @@ Final Project «Multilingual Computational Methods for Text-based Media»
     - `/data-analysis/output/data/df_german_sentiment_analysis.csv`
      - `/data-analysis/output/data/df_french_sentiment_analysis.csv`
 
+
+😴 Time for a well-deserved break! 😴
+![](https://giphy.com/embed/4kNO1v6ABvMXu)
+
+Thanks for the course!
