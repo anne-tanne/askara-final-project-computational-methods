@@ -1,0 +1,215 @@
+Country,Capital,ISO2,ISO3
+emirats arabes unis,abou dabi,AE,ARE
+nigeria,abuja,NG,NGA
+ghana,accra,GH,GHA
+turkmenistan,achgabat,TM,TKM
+ethiopie,addis-abeba,ET,ETH
+yemen,aden (de facto),YE,YEM
+yemen,sanaa (de jure),YE,YEM
+algerie,alger,DZ,DZA
+niue,alofi,NU,NIU
+jordanie,amman,JO,JOR
+pays-bas,amsterdam (officielle),NL,NLD
+pays-bas,la haye (de facto),NL,NLD
+andorre,andorre-la-vieille,AD,AND
+turquie,ankara,TR,TUR
+madagascar,antananarivo,MG,MDG
+samoa,apia,WS,WSM
+erythree,asmara,ER,ERI
+kazakhstan,astana,KZ,KAZ
+paraguay,asuncion,PY,PRY
+grece,athenes,GR,GRC
+iles cook,avarua,CK,COK
+irak,bagdad,IQ,IRQ
+azerbaidjan,bakou,AZ,AZE
+mali,bamako,ML,MLI
+brunei,bandar seri begawan,BN,BRN
+thailande,bangkok,TH,THA
+republique centrafricaine,bangui,CF,CAF
+gambie,banjul,GM,GMB
+saint-christophe-et-nieves,basseterre,KN,KNA
+serbie,belgrade,RS,SRB
+belize,belmopan,BZ,BLZ
+allemagne,berlin,DE,DEU
+suisse,berne (de facto),CH,CHE
+liban,beyrouth,LB,LBN
+kirghizistan,bichkek,KG,KGZ
+guinee-bissau,bissau,GW,GNB
+afrique du sud,bloemfontein (judiciaire),ZA,ZAF
+afrique du sud,le cap (legislative),ZA,ZAF
+afrique du sud,pretoria (administrative),ZA,ZAF
+colombie,bogota,CO,COL
+bresil,brasilia,BR,BRA
+slovaquie,bratislava,SK,SVK
+republique du congo,brazzaville,CG,COG
+barbade,bridgetown,BB,BRB
+belgique,bruxelles,BE,BEL
+roumanie,bucarest,RO,ROU
+hongrie,budapest,HU,HUN
+argentine,buenos aires,AR,ARG
+burundi,bujumbura (de facto),BI,BDI
+burundi,gitega (officielle),BI,BDI
+egypte,le caire,EG,EGY
+australie,canberra,AU,AUS
+venezuela,caracas,VE,VEN
+sainte-lucie,castries,LC,LCA
+montenegro,cetinje (presidentielle),ME,MNE
+montenegro,podgorica (administrative),ME,MNE
+moldavie,chisinau,MD,MDA
+sri lanka,colombo (executive et judiciaire),LK,LKA
+sri lanka,sri jayawardenapura kotte (officielle et legislative),LK,LKA
+honduras,comayaguela (es),HN,HND
+honduras,tegucigalpa,HN,HND
+guinee,conakry,GN,GIN
+danemark,copenhague,DK,DNK
+benin,cotonou (de facto),BJ,BEN
+benin,porto-novo (officielle),BJ,BEN
+senegal,dakar,SN,SEN
+syrie,damas,SY,SYR
+bangladesh,dacca,BD,BGD
+tanzanie,"dar es salam (de facto, judiciaire)",TZ,TZA
+tanzanie,"dodoma (officielle, legislative)",TZ,TZA
+timor oriental,dili,TL,TLS
+djibouti,djibouti,DJ,DJI
+soudan du sud,djouba,SS,SSD
+qatar,doha,QA,QAT
+tadjikistan,douchanbe,TJ,TJK
+irlande,dublin,IE,IRL
+armenie,erevan,AM,ARM
+sierra leone,freetown,SL,SLE
+tuvalu,funafuti (vaiaku),TV,TUV
+botswana,gaborone,BW,BWA
+guyana,georgetown,GY,GUY
+guatemala,guatemala,GT,GTM
+viet nam,hanoi,VN,VNM
+zimbabwe,harare,ZW,ZWE
+cuba,la havane,CU,CUB
+finlande,helsinki,FI,FIN
+iles salomon,honiara,SB,SLB
+pakistan,islamabad,PK,PAK
+indonesie,jakarta,ID,IDN
+israel,jerusalem (contestee),IL,ISR
+palestine,jerusalem (proclamee),PS,PSE
+palestine,ramallah (de facto),PS,PSE
+afghanistan,kaboul,AF,AFG
+ouganda,kampala,UG,UGA
+nepal,katmandou,NP,NPL
+soudan,khartoum,SD,SDN
+ukraine,kiev,UA,UKR
+rwanda,kigali,RW,RWA
+jamaique,kingston,JM,JAM
+saint-vincent-et-les-grenadines,kingstown,VC,VCT
+republique democratique du congo,kinshasa,CD,COD
+palaos,melekeok (ngerulmud),PW,PLW
+koweit,koweit,KW,KWT
+malaisie,kuala lumpur (officielle),MY,MYS
+malaisie,putrajaya (administrative),MY,MYS
+gabon,libreville,GA,GAB
+malawi,lilongwe,MW,MWI
+perou,lima,PE,PER
+portugal,lisbonne,PT,PRT
+slovenie,ljubljana,SI,SVN
+togo,lome,TG,TGO
+royaume-uni,londres,GB,GBR
+angola,luanda,AO,AGO
+zambie,lusaka,ZM,ZMB
+luxembourg,luxembourg,LU,LUX
+espagne,madrid,ES,ESP
+iles marshall,majuro (delap-uliga-darrit),MH,MHL
+guinee equatoriale,malabo,GQ,GNQ
+maldives,male,MV,MDV
+nicaragua,managua,NI,NIC
+bahrein,manama,BH,BHR
+philippines,manille,PH,PHL
+mozambique,maputo,MZ,MOZ
+oman,mascate,OM,OMN
+lesotho,maseru,LS,LSO
+eswatini,mbabane,SZ,SWZ
+mexique,mexico,MX,MEX
+bielorussie,minsk,BY,BLR
+somalie,mogadiscio,SO,SOM
+monaco,monaco,MC,MCO
+liberia,monrovia,LR,LBR
+uruguay,montevideo,UY,URY
+comores,moroni,KM,COM
+russie,moscou,RU,RUS
+kenya,nairobi,KE,KEN
+bahamas,nassau,BS,BHS
+birmanie,naypyidaw,MM,MMR
+tchad,n'djamena,TD,TCD
+inde,new delhi,IN,IND
+niger,niamey,NE,NER
+chypre,nicosie,CY,CYP
+mauritanie,nouakchott,MR,MRT
+tonga,nukualofa,TO,TON
+norvege,oslo,NO,NOR
+canada,ottawa,CA,CAN
+burkina faso,ouagadougou,BF,BFA
+mongolie,oulan-bator,MN,MNG
+etats federes de micronesie,palikir,FM,FSM
+panama,panama,PA,PAN
+suriname,paramaribo,SR,SUR
+france,paris,FR,FRA
+bolivie,la paz (gouvernement et ambassades),BO,BOL
+bolivie,sucre (constitutionnelle),BO,BOL
+chine,pekin,CN,CHN
+cambodge,phnom penh,KH,KHM
+papouasie-nouvelle-guinee,port moresby,PG,PNG
+haiti,port-au-prince,HT,HTI
+trinite-et-tobago,port-d'espagne,TT,TTO
+maurice,port-louis,MU,MUS
+vanuatu,port-vila,VU,VUT
+republique tcheque,prague,CZ,CZE
+cap-vert,praia,CV,CPV
+coree du nord,pyongyang,KP,PRK
+equateur,quito,EC,ECU
+maroc,rabat,MA,MAR
+islande,reykjavik,IS,ISL
+lettonie,riga,LV,LVA
+arabie saoudite,riyad,SA,SAU
+italie,rome,IT,ITA
+dominique,roseau,DM,DMA
+antigua-et-barbuda,saint john's (de facto),AG,ATG
+republique dominicaine,saint-domingue,DO,DOM
+grenade,saint-georges,GD,GRD
+saint-marin,saint-marin,SM,SMR
+costa rica,san jose,CR,CRI
+salvador,san salvador,SV,SLV
+chili,santiago (officielle),CL,CHL
+chili,valparaiso (legislative),CL,CHL
+sao tome-et-principe,sao tome,ST,STP
+bosnie-herzegovine,sarajevo,BA,BIH
+coree du sud,sejong (de facto),KR,KOR
+coree du sud,seoul,KR,KOR
+singapour,singapour,SG,SGP
+macedoine du nord,skopje,MK,MKD
+bulgarie,sofia,BG,BGR
+suede,stockholm,SE,SWE
+fidji,suva,FJ,FJI
+ouzbekistan,tachkent,UZ,UZB
+estonie,tallinn,EE,EST
+kiribati,tarawa-sud,KI,KIR
+georgie,tbilissi,GE,GEO
+iran,teheran,IR,IRN
+bhoutan,thimphou,BT,BTN
+albanie,tirana,AL,ALB
+japon,tokyo,JP,JPN
+libye,tripoli,LY,LBY
+tunisie,tunis,TN,TUN
+liechtenstein,vaduz,LI,LIE
+malte,la valette,MT,MLT
+pologne,varsovie,PL,POL
+vatican,vatican,VA,VAT
+seychelles,victoria,SC,SYC
+autriche,vienne,AT,AUT
+laos,vientiane,LA,LAO
+lituanie,vilnius,LT,LTU
+etats-unis,washington,US,USA
+nouvelle-zelande,wellington,NZ,NZL
+namibie,windhoek,NA,NAM
+cote d'ivoire,yamoussoukro,CI,CIV
+cameroun,yaounde,CM,CMR
+nauru,yaren (de facto),NR,NRU
+croatie,zagreb,HR,HRV
+kosovo,pristina,XK,
+taiwan,taipei,TW,TWN

@@ -1,0 +1,212 @@
+CountryName,CapitalName,ContinentName,OtherNames,Coordinates,Latitude,Longitude,ISO2
+afghanistan,kabul,asien,,"(34.52813, 69.17233)",34.52813,69.17233,AF
+agypten,kairo,afrika,,"(30.079694, 31.323437)",30.079694,31.323437,EG
+albanien,tirana,europa,,"(41.282045, 19.799067)",41.282045,19.799067,AL
+algerien,algier,afrika,,"(36.74395, 3.083627)",36.74395,3.083627,DZ
+andorra,andorra la vella,europa,,"(42.504294, 1.518714)",42.504294,1.518714,AD
+angola,luanda,afrika,,"(-8.83682, 13.23432)",-8.83682,13.23432,AO
+antigua und barbuda,st. johns,amerika/westindien,,"(17.108788, -61.824679)",17.108788,-61.824679,AG
+aquatorialguinea,malabo,afrika,,"(3.75, 8.78333)",3.75,8.78333,GQ
+argentinien,buenos aires,amerika/sudamerika,,"(-34.607357, -58.454595)",-34.607357,-58.454595,AR
+armenien,jerewan,asien,,"(40.155704, 44.524938)",40.155704,44.524938,AM
+aserbaidschan,baku,asien,,"(40.378395, 49.840288)",40.378395,49.840288,AZ
+athiopien,addis abeba,afrika,,"(9.018947, 38.746032)",9.018947,38.746032,ET
+australien,canberra,australien und ozeanien,,"(-35.470057, 148.954507)",-35.470057,148.954507,AU
+bahamas,nassau,amerika/westindien,,"(25.05823, -77.34306)",25.05823,-77.34306,BS
+bahrain,manama,asien,,"(26.219616, 50.581836)",26.219616,50.581836,BH
+bangladesch,dhaka,asien,,"(23.7104, 90.40744)",23.7104,90.40744,BD
+barbados,bridgetown,amerika/westindien,,"(45.533467, -122.650095)",45.533467,-122.650095,BB
+belgien,brussel,europa,,"(50.843183, 4.371755)",50.843183,4.371755,BE
+belize,belmopan,amerika/mittelamerika,,"(17.25, -88.76667)",17.25,-88.76667,BZ
+benin,porto novo,afrika,,"(17.023043, -25.216696)",17.023043,-25.216696,BJ
+bhutan,thimphu,asien,,"(27.476634, 89.636102)",27.476634,89.636102,BT
+bolivien,sucre,amerika/sudamerika,"['bolivien, plurinationaler staat']","(10.264831, -64.236365)",10.264831,-64.236365,BO
+bosnien und herzegowina,sarajevo,europa,,"(43.84864, 18.35644)",43.84864,18.35644,BA
+botsuana,gaborone,afrika,,"(-24.618994, 25.929288)",-24.618994,25.929288,BW
+brasilien,brasilia,amerika/sudamerika,,"(-11.929178, -49.542799)",-11.929178,-49.542799,BR
+brunei,bandar seri begawan,asien,,"(4.889737, 114.941695)",4.889737,114.941695,BN
+bulgarien,sofia,europa,,"(42.685984, 23.326714)",42.685984,23.326714,BG
+burkina faso,ouagadougou,afrika,,"(12.36566, -1.53388)",12.36566,-1.53388,BF
+burundi,bujumbura,afrika,,"(-3.353004, 29.373224)",-3.353004,29.373224,BI
+chile,santiago de chile,amerika/sudamerika,,"(-33.428532, -70.630133)",-33.428532,-70.630133,CL
+china,peking,asien,['volksrepublik china'],"(39.937967, 116.417592)",39.937967,116.417592,CN
+costa rica,san jose,amerika/mittelamerika,,"(37.354559, -121.883844)",37.354559,-121.883844,CR
+danemark,kopenhagen,europa,,"(55.704438, 12.502119)",55.704438,12.502119,DK
+deutschland,berlin,europa,,"(52.524932, 13.407032)",52.524932,13.407032,DE
+dominica,roseau,amerika/westindien,,"(15.30174, -61.38808)",15.30174,-61.38808,DM
+dominikanische republik,santo domingo,amerika/westindien,,"(19.105937, -70.804224)",19.105937,-70.804224,DO
+dschibuti,dschibuti,afrika,,"(11.58901, 43.14503)",11.58901,43.14503,DJ
+ecuador,quito,amerika/sudamerika,,"(-0.22985, -78.52495)",-0.22985,-78.52495,EC
+el salvador,san salvador,amerika/mittelamerika,,"(13.698156, -89.191355)",13.698156,-89.191355,SV
+elfenbeinkuste,yamoussoukro,afrika,"[""cote d'ivoire""]","(6.82055, -5.27674)",6.82055,-5.27674,CI
+eritrea,asmara,afrika,,"(15.33805, 38.93184)",15.33805,38.93184,ER
+estland,tallinn,europa,,"(59.401347, 24.693912)",59.401347,24.693912,EE
+fidschi,suva,australien und ozeanien,,"(-18.138099, 178.427957)",-18.138099,178.427957,FJ
+finnland,helsinki,europa,,"(60.20787, 24.99935)",60.20787,24.99935,FI
+frankreich,paris,europa,,"(48.858705, 2.342865)",48.858705,2.342865,FR
+gabun,libreville,afrika,,"(0.394217, 9.449357)",0.394217,9.449357,GA
+gambia,banjul,afrika,,"(13.451173, -16.596967)",13.451173,-16.596967,GM
+georgien,tiflis,asien,,"(41.69411, 44.83368)",41.69411,44.83368,GE
+ghana,accra,afrika,,"(5.545935, -0.210089)",5.545935,-0.210089,GH
+grenada,st. georges,amerika/westindien,,"(8.484, -13.22994)",8.484,-13.22994,GD
+griechenland,athen,europa,,"(37.988579, 23.728541)",37.988579,23.728541,GR
+guatemala,guatemala-stadt,amerika/mittelamerika,,"(14.64072, -90.51327)",14.64072,-90.51327,GT
+guinea,conakry,afrika,,"(9.51356, -13.703869)",9.51356,-13.703869,GN
+guinea-bissau,bissau,afrika,,"(11.86327, -15.584522)",11.86327,-15.584522,GW
+guyana,georgetown,amerika/sudamerika,,"(5.407652, 100.308282)",5.407652,100.308282,GY
+haiti,port-au-prince,amerika/westindien,,"(18.547808, -72.343769)",18.547808,-72.343769,HT
+honduras,tegucigalpa,amerika/mittelamerika,,"(14.0818, -87.20681)",14.0818,-87.20681,HN
+indien,neu-delhi,asien,,"(28.613789, 77.213072)",28.613789,77.213072,IN
+indonesien,jakarta,asien,,"(-6.182283, 106.839426)",-6.182283,106.839426,ID
+irak,bagdad,asien,,"(33.340336, 44.329214)",33.340336,44.329214,IQ
+iran,teheran,asien,['islamische republik iran'],"(35.69439, 51.42151)",35.69439,51.42151,IR
+irland,dublin,europa,,"(53.340305, -6.293676)",53.340305,-6.293676,IE
+island,reykjavik,europa,,"(64.09518, -21.861966)",64.09518,-21.861966,IS
+israel,jerusalem,asien,,"(31.759595, 35.215315)",31.759595,35.215315,IL
+italien,rom,europa,,"(41.878243, 12.528091)",41.878243,12.528091,IT
+jamaika,kingston,amerika/westindien,,"(17.975224, -76.787568)",17.975224,-76.787568,JM
+japan,tokio,asien,,"(35.695126, 139.75391)",35.695126,139.75391,JP
+jemen,sanaa,asien,,"(15.35472, 44.20667)",15.35472,44.20667,YE
+jordanien,amman,asien,,"(31.95522, 35.94503)",31.95522,35.94503,JO
+kambodscha,phnom penh,asien,,"(11.56245, 104.91601)",11.56245,104.91601,KH
+kamerun,jaunde (yaounde),afrika,,"(3.86667, 11.51667)",3.86667,11.51667,CM
+kanada,ottawa,amerika/nordamerika,,"(45.209415, -75.783876)",45.209415,-75.783876,CA
+kap verde,praia,afrika,,"(14.916321, -23.510241)",14.916321,-23.510241,CV
+kasachstan,astana,asien,,"(51.189242, 71.43209)",51.189242,71.43209,KZ
+katar,doha,asien,,"(25.251557, 51.564826)",25.251557,51.564826,QA
+kenia,nairobi,afrika,,"(-1.28333, 36.81667)",-1.28333,36.81667,KE
+kirgisistan,bischkek,asien,,"(42.87, 74.59)",42.87,74.59,KG
+kiribati,south tarawa,australien und ozeanien,,"(1.338315, 173.03129)",1.338315,173.03129,KI
+kolumbien,bogota,amerika/sudamerika,,"(4.635456, -74.08768)",4.635456,-74.08768,CO
+komoren,moroni,afrika,,"(-11.70216, 43.25506)",-11.70216,43.25506,KM
+demokratische republik kongo,kinshasa,afrika,,"(-4.32142, 15.30807)",-4.32142,15.30807,CD
+republik kongo,brazzaville,afrika,['kongo-brazzaville'],"(-4.26613, 15.28318)",-4.26613,15.28318,CG
+nordkorea,pjongjang,asien,"['korea, demokratische volksrepublik', 'demokratische volksrepublik korea']","(39.07094, 125.819733)",39.07094,125.819733,KP
+sudkorea,seoul,asien,"['korea, republik', 'republik korea']","(37.539619, 127.009676)",37.539619,127.009676,KR
+kosovo,pristina,europa,,"(42.67272, 21.16688)",42.67272,21.16688,XK
+kroatien,zagreb (agram),europa,,"(45.806026, 15.976218)",45.806026,15.976218,HR
+kuba,havanna,amerika/westindien,,"(23.13302, -82.38304)",23.13302,-82.38304,CU
+kuwait,kuwait-stadt,asien,,"(29.329477, 47.945901)",29.329477,47.945901,KW
+laos,vientiane,asien,,"(18.846354, 102.315852)",18.846354,102.315852,LA
+lesotho,maseru,afrika,,"(-29.31667, 27.48333)",-29.31667,27.48333,LS
+lettland,riga,europa,,"(56.971149, 24.142749)",56.971149,24.142749,LV
+libanon,beirut,asien,,"(33.88432, 35.501527)",33.88432,35.501527,LB
+liberia,monrovia,afrika,,"(6.31459, -10.802055)",6.31459,-10.802055,LR
+libyen,tripolis,afrika,,"(32.8925, 13.180012)",32.8925,13.180012,LY
+liechtenstein,vaduz,europa,,"(47.167938, 9.512335)",47.167938,9.512335,LI
+litauen,vilnius,europa,,"(54.700902, 25.251531)",54.700902,25.251531,LT
+luxemburg,luxemburg,europa,,"(49.6113, 6.12941)",49.6113,6.12941,LU
+madagaskar,antananarivo,afrika,,"(-18.902964, 47.522391)",-18.902964,47.522391,MG
+malawi,lilongwe,afrika,,"(-13.96692, 33.78725)",-13.96692,33.78725,MW
+malaysia,kuala lumpur,asien,,"(3.160318, 101.691466)",3.160318,101.691466,MY
+malediven,male,asien,,"(35.888972, 14.431432)",35.888972,14.431432,MV
+mali,bamako,afrika,,"(12.65, -8)",12.65,-8.0,ML
+malta,valletta,europa,,"(35.898936, 14.512859)",35.898936,14.512859,MT
+marokko,rabat,afrika,,"(33.970785, -6.842736)",33.970785,-6.842736,MA
+marshallinseln,majuro,australien und ozeanien,,"(7.140155, 171.123046)",7.140155,171.123046,MH
+mauretanien,nouakchott,afrika,,"(18.088014, -15.983744)",18.088014,-15.983744,MR
+mauritius,port louis,afrika,,"(-20.154478, 57.497475)",-20.154478,57.497475,MU
+mazedonien,skopje,europa,['nordmazedonien'],"(42.00122, 21.42878)",42.00122,21.42878,MK
+mexiko,mexiko-stadt,amerika/nordamerika,,"(19.371422, -99.150344)",19.371422,-99.150344,MX
+mikronesien,palikir,australien und ozeanien,,"(6.91621, 158.159725)",6.91621,158.159725,FM
+moldawien,chisinau,europa,,"(47.020682, 28.854719)",47.020682,28.854719,MD
+monaco,monaco,europa,,"(43.733783, 7.418464)",43.733783,7.418464,MC
+mongolei,ulaanbaatar,asien,,"(47.90771, 106.88324)",47.90771,106.88324,MN
+montenegro,podgorica,europa,,"(42.44111, 19.26361)",42.44111,19.26361,ME
+mosambik,maputo,afrika,,"(-25.96553, 32.58322)",-25.96553,32.58322,MZ
+myanmar,pyinmana naypyidaw,asien,,"(19.7381, 96.20742)",19.7381,96.20742,MM
+namibia,windhoek,afrika,,"(-22.73523, 17.592593)",-22.73523,17.592593,NA
+nauru,yaren,australien und ozeanien,,"(-0.543505, 166.923541)",-0.543505,166.923541,NR
+nepal,kathmandu,asien,,"(27.70169, 85.3206)",27.70169,85.3206,NP
+neuseeland,wellington,australien und ozeanien,,"(-41.281385, 175.32902)",-41.281385,175.32902,NZ
+nicaragua,managua,amerika/mittelamerika,,"(12.13282, -86.2504)",12.13282,-86.2504,NI
+niederlande,amsterdam,europa,['holland'],"(52.37243, 4.89973)",52.37243,4.89973,NL
+niederlande,den haag,europa,['holland'],"(52.07114, 4.29916)",52.07114,4.29916,NL
+niger,niamey,afrika,,"(13.51366, 2.1098)",13.51366,2.1098,NE
+nigeria,abuja,afrika,,"(9.047364, 7.434935)",9.047364,7.434935,NG
+norwegen,oslo,europa,,"(59.974453, 10.735045)",59.974453,10.735045,NO
+oman,maskat,asien,,"(23.611705, 58.492641)",23.611705,58.492641,OM
+osterreich,wien,europa,,"(48.198674, 16.348388)",48.198674,16.348388,AT
+osttimor,dili,asien,['timor-leste'],"(28.665996, 77.115075)",28.665996,77.115075,TL
+pakistan,islamabad,asien,,"(33.679668, 73.029883)",33.679668,73.029883,PK
+palau,melekeok,australien und ozeanien,,"(7.51149, 134.614918)",7.51149,134.614918,PW
+panama,panama-stadt,amerika/mittelamerika,,"(8.9936, -79.51973)",8.9936,-79.51973,PA
+papua-neuguinea,port moresby,australien und ozeanien,,"(-9.434881, 147.208705)",-9.434881,147.208705,PG
+paraguay,asuncion,amerika/sudamerika,,"(-25.30066, -57.63591)",-25.30066,-57.63591,PY
+peru,lima,amerika/sudamerika,,"(-12.049141, -77.021217)",-12.049141,-77.021217,PE
+philippinen,manila,asien,,"(14.593819, 120.992302)",14.593819,120.992302,PH
+polen,warschau,europa,,"(52.237695, 21.005427)",52.237695,21.005427,PL
+portugal,lissabon,europa,,"(38.748243, -9.140093)",38.748243,-9.140093,PT
+ruanda,kigali,afrika,,"(-1.947466, 30.059795)",-1.947466,30.059795,RW
+rumanien,bukarest,europa,,"(44.435842, 26.085733)",44.435842,26.085733,RO
+russland,moskau,europa,['russische foderation'],"(55.741469, 37.615561)",55.741469,37.615561,RU
+salomonen,honiara,australien und ozeanien,,"(-9.43333, 159.95)",-9.43333,159.95,SB
+sambia,lusaka,afrika,,"(-15.40669, 28.28713)",-15.40669,28.28713,ZM
+samoa,apia,australien und ozeanien,,"(-13.83333, -171.76666)",-13.83333,-171.76666,AS
+samoa,apia,australien und ozeanien,,"(-13.83333, -171.76666)",-13.83333,-171.76666,WS
+san marino,san marino,europa,,"(43.936245, 12.447407)",43.936245,12.447407,SM
+saudi-arabien,riad,asien,,"(24.664126, 46.814232)",24.664126,46.814232,SA
+schweden,stockholm,europa,,"(59.275254, 18.035164)",59.275254,18.035164,SE
+schweiz,bern,europa,,"(46.946416, 7.396394)",46.946416,7.396394,CH
+senegal,dakar,afrika,,"(14.713018, -17.454726)",14.713018,-17.454726,SN
+serbien,belgrad,europa,,"(44.782449, 20.46444)",44.782449,20.46444,RS
+seychellen,victoria,afrika,,"(22.381131, 114.135572)",22.381131,114.135572,SC
+sierra leone,freetown,afrika,,"(8.489846, -13.232287)",8.489846,-13.232287,SL
+simbabwe,harare,afrika,,"(-17.82772, 31.05337)",-17.82772,31.05337,ZW
+singapur,singapur,asien,,"(1.366923, 103.801292)",1.366923,103.801292,SG
+slowakei,bratislava (pressburg),europa,,"(48.165064, 17.145673)",48.165064,17.145673,SK
+slowenien,ljubljana (laibach),europa,,"(46.063562, 14.48854)",46.063562,14.48854,SI
+somalia,mogadischu,afrika,,"(2.03711, 45.34375)",2.03711,45.34375,SO
+spanien,madrid,europa,,"(40.429913, -3.669245)",40.429913,-3.669245,ES
+sri lanka,colombo,asien,,"(6.934744, 79.842725)",6.934744,79.842725,LK
+st. kitts und nevis,basseterre,amerika/westindien,,"(17.29484, -62.7261)",17.29484,-62.7261,KN
+st. lucia,castries,amerika/westindien,,"(14.008326, -60.989868)",14.008326,-60.989868,LC
+st. vincent und die grenadinen,kingstown,amerika/westindien,,"(53.29395, -6.13586)",53.29395,-6.13586,VC
+sudafrika,pretoria (tshwane),afrika,,"(-25.746763, 28.206091)",-25.746763,28.206091,ZA
+sudan,khartum,afrika,,"(15.55177, 32.53241)",15.55177,32.53241,SD
+sudsudan,juba,afrika,"['sudan, sud-']","(4.85165, 31.58247)",4.85165,31.58247,SS
+suriname,paramaribo,amerika/sudamerika,,"(5.822445, -55.172672)",5.822445,-55.172672,SR
+swasiland,mbabane,afrika,,"(-26.325631, 31.1445)",-26.325631,31.1445,SZ
+syrien,damaskus,asien,,"(33.5102, 36.29128)",33.5102,36.29128,SY
+sao tome und principe,sao tome,afrika,,"(0.252119, 6.600203)",0.252119,6.600203,ST
+tadschikistan,duschanbe,asien,,"(38.559318, 68.767547)",38.559318,68.767547,TJ
+tansania,dodoma,afrika,,"(-6.181104, 35.746696)",-6.181104,35.746696,TZ
+thailand,bangkok,asien,,"(13.881591, 100.644533)",13.881591,100.644533,TH
+togo,lome,afrika,,"(6.130632, 1.223718)",6.130632,1.223718,TG
+tonga,nukualofa,australien und ozeanien,,"(-21.138512, -175.220564)",-21.138512,-175.220564,TO
+trinidad und tobago,port-of-spain,amerika/westindien,,"(10.651997, -61.517031)",10.651997,-61.517031,TT
+tschad,ndjamena,afrika,,"(12.10672, 15.0444)",12.10672,15.0444,TD
+tschechien,prag,europa,['tschechische republik'],"(50.06694, 14.460249)",50.06694,14.460249,CZ
+tunesien,tunis,afrika,,"(33.687264, 9.007775)",33.687264,9.007775,TN
+turkei,ankara,asien,,"(39.91987, 32.85427)",39.91987,32.85427,TR
+turkmenistan,aschgabat,asien,,"(37.95, 58.38333)",37.95,58.38333,TM
+tuvalu,funafuti,australien und ozeanien,,"(-8.4379, 179.17031)",-8.4379,179.17031,TV
+uganda,kampala,afrika,,"(0.31628, 32.58219)",0.31628,32.58219,UG
+ukraine,kiew,europa,,"(50.469863, 30.431971)",50.469863,30.431971,UA
+ungarn,budapest,europa,,"(47.516581, 19.092281)",47.516581,19.092281,HU
+uruguay,montevideo,amerika/sudamerika,,"(-34.83346, -56.16735)",-34.83346,-56.16735,UY
+usbekistan,taschkent,asien,,"(41.26465, 69.21627)",41.26465,69.21627,UZ
+vanuatu,port vila,australien und ozeanien,,"(-17.73381, 168.32188)",-17.73381,168.32188,VU
+vatikanstadt,keine hauptstadt,europa,['heiliger stuhl'],"(52.467969, 13.490268)",52.467969,13.490268,VA
+venezuela,caracas,amerika/sudamerika,,"(10.505146, -66.917878)",10.505146,-66.917878,VE
+vereinigte arabische emirate,abu dhabi,asien,,"(24.365909, 54.582942)",24.365909,54.582942,AE
+vereinigte staaten von amerika,"washington, d.c.",amerika/nordamerika,['usa'],"(38.82652, -77.01712)",38.82652,-77.01712,US
+vereinigtes konigreich,london,europa,"['grobritannien', 'grossbritannien', 'england', 'schottland', 'wales', 'uk']","(51.509648, -0.099076)",51.509648,-0.099076,GB
+vietnam,hanoi,asien,,"(21.0245, 105.84117)",21.0245,105.84117,VN
+weirussland,minsk,europa,,"(53.9, 27.56667)",53.9,27.56667,BY
+zentralafrikanische republik,bangui,afrika,,"(4.370245, 18.571353)",4.370245,18.571353,CF
+zypern,nikosia,asien,,"(35.178646, 33.368885)",35.178646,33.368885,CY
+abchasien,sochumi,,,"(41.023415, 43.001525)",41.023415,43.001525,
+arzach,stepanakert,,,"(39.833994, 46.796791)",39.833994,46.796791,
+cookinseln,avarua,,,"(-21.20778, -159.775)",-21.20778,-159.775,CK
+kosovo,pristina,,,"(42.67272, 21.16688)",42.67272,21.16688,XK
+niue,alofi,,,"(-19.05952, -169.91867)",-19.05952,-169.91867,NU
+nordzypern,nord-nikosia,,,"(-0.699018, 28.769618)",-0.699018,28.769618,CY
+palastina,ostjerusalem,,['westjordanland und gazastreifen'],"(31.898811, 35.195414)",31.898811,35.195414,PS
+palastina,ramallah,,['westjordanland und gazastreifen'],"(31.898811, 35.195414)",31.898811,35.195414,PS
+somaliland,hargeysa,,,"(9.56, 44.065)",9.56,44.065,SO
+sudossetien,zchinwali,,,"(42.22764, 43.96861)",42.22764,43.96861,
+taiwan,taipeh,,['republik china (taiwan)'],"(25.04776, 121.53185)",25.04776,121.53185,TW
+transnistrien,tiraspol,,,"(46.848936, 29.630367)",46.848936,29.630367,
+westsahara ,el aaiun,,,"(27.16224, -13.20315)",27.16224,-13.20315,EH
+westsahara,tifariti,,,"(26.1579, -10.55889)",26.1579,-10.55889,EH
